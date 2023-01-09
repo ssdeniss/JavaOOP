@@ -1,3 +1,5 @@
+package OOP.Initialization;
+
 import java.util.Scanner;
 
 public class DoWhile {

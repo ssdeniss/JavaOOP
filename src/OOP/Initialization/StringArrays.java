@@ -1,3 +1,5 @@
+package OOP.Initialization;
+
 public class StringArrays {
     public static void main(String[] args) {
         String[] arr = {"first", "second", "third"};
