@@ -1,0 +1,3 @@
+Write text 1 to file
+Write text 2 to file
+Write text 3 to file
