@@ -1,4 +1,4 @@
-package OOP.Initialization;
+package Core;
 
 public class Arrays {
     public static void main(String[] args) {
