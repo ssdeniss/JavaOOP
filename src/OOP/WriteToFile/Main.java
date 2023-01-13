@@ -14,7 +14,7 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        PrintWriter writer = new PrintWriter(pathFile("testFile"));
+        PrintWriter writer = new PrintWriter(pathFile("NewFileCreated"));
 
         writer.println("Write text 1 to file");
         writer.println("Write text 2 to file");
