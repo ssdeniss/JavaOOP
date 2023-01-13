@@ -11,7 +11,7 @@ public class Person implements Serializable {
                 separator + "Serialization" + separator + path + ".bin";
     }
 
-    private int id;
+    private transient int id; // use transient to avoid serialization
     private String name;
 
     public Person(int id, String name) {
