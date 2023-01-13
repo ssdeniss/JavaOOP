@@ -1,4 +1,4 @@
-package AlgorithmsAndStructures.Fibonacci;
+package AlgorithmsDataStructures.Fibonacci;
 
 public class Fibonacci {
     public static void main(String[] args) {
